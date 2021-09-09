@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Divyachopra21
+- 🌱 I’m currently provide service- Training Classes (IT Industry)...
+- 💞️ I’m looking to collaborate on Teaching, Education...
+- 📫 How to reach me chopra.divya2001@gmail.com  +918130799520...
+
+<!---
+Divyachopra21/Divyachopra21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
